@@ -1,8 +1,8 @@
 backend:
     name: github
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    repo: CalebLovell/caleb-netlify-blog
     branch: master
-    site_domain: https://iceberg-gatsby-multilang.netlify.com/
+    site_domain: https://determined-wiles-7cb90c.netlify.com//
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
